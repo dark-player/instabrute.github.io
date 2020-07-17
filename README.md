@@ -41,13 +41,13 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Infinity-Trickster/ighack
+$ git clone https://github.com/dark-player/igbrute
 ```
 ```
 $ ls
 ```
 ```
-$ cd ighack
+$ cd igbrute
 ```
 ```
 $ ls
@@ -56,7 +56,7 @@ $ ls
 $ bash setup
 ```
 ```
-$ bash ighack.sh
+$ bash igbrute.sh
 ```
 * Now you need internet connection to continue further process...
 
