@@ -83,10 +83,10 @@ https://chattingable.herokuapp.com/
 https://www.facebook.com/groups/1936478173310085
 
 ### Telegram channel:
-https://t.me/darkplayer
+*** for some purpose not available  ***
 
 ### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
+https://www.facebook.com/infinitytrickster/
 
 ### Instagram: 
 https://www.instagram.com/guyinwhiteshirt
