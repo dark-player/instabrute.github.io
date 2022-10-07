@@ -75,7 +75,7 @@ $ bash igbrute.sh
 https://www.youtube.com/InfinityTrickster
 
 ### Chekout our webite:
-https://www.infinitytrickster.unaux.com
+https://chattingable.herokuapp.com/
 
 ## 👥 ***Join***
 
@@ -89,10 +89,9 @@ https://t.me/darkplayer
 https://www.facebook.com/Noob-Hackers-250938565573643
 
 ### Instagram: 
-https://www.instagram.com/infinity.trickster
+https://www.instagram.com/guyinwhiteshirt
 
-### Pinterest:
-https://in.pinterest.com/darkplayer
+
 
 ### My GitHub ID link:
 https://www.github.com/dark-player
