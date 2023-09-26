@@ -17,16 +17,16 @@ echo '
               [#] Manual Password Attack [#]
 ' |lolcat
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;87m  >>  Script By N17R0 << \e[0m\n"
 printf "\n"
-printf "  \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m youtube.com/InfinityTrickster \e[100m\e[1;77m << \e[0m\n"
+printf "  \e[100m\e[1;87m >>  Youtube Channel : \e[1;96m youtube.com/InfinityTrickster \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 echo
-read -p "[#] User Name : " usrnm
+read -p "[#] User Name : " mani
 echo
-read -p "[#] Enter Passlist Location : " inspass
+read -p "[mani] Enter Passlist Location : " inspass
 echo
-if [ $inspass = 0 ]                                             
+if [ $inspass = 1 ]                                             
 then
 echo -e  "$ylo >>> exiting........! Bye Bye :) <<<$rset"        
 else
