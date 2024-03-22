@@ -40,19 +40,19 @@ read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m' optio
 
 if [[ $option == 1 || $option == 01 ]]; then
 cd $HOME/ighack/main
-bash ighack.sh
+bash ./auto.sh
 elif [[ $option == 2 || $option == 02 ]]; then
 cd $HOME/ighack/main
-bash manual.sh
+bash ./manual.sh
 elif [[ $option == 3 || $option == 03 ]]; then
 cd $HOME/ighack/core
-bash about.sh
+bash ./about.sh
 elif [[ $option == 4 || $option == 04 ]]; then                                                                                                                
 cd $HOME/ighack/core
-bash update.sh
+bash ./update.sh
 elif [[$option ==5 || $option == 05 ]]; then
 cd $HOME/ighack/core
-bash info.sh
+bash ./info.sh
 elif [[ $option == 6 ]]; then
 exit 1
 
