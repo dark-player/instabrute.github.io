@@ -40,7 +40,7 @@ read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m' optio
 
 if [[ $option == 1 || $option == 01 ]]; then
 cd $HOME/ighack/main
-bash auto.sh
+bash ighack.sh
 elif [[ $option == 2 || $option == 02 ]]; then
 cd $HOME/ighack/main
 bash manual.sh
