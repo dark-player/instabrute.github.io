@@ -50,7 +50,7 @@ bash ./about.sh
 elif [[ $option == 4 || $option == 04 ]]; then                                                                                                                
 cd $HOME/ighack/core
 bash ./update.sh
-elif [[$option ==5 || $option == 05 ]]; then
+elif [[$option == 5 || $option == 05 ]]; then
 cd $HOME/ighack/core
 bash ./info.sh
 elif [[ $option == 6 ]]; then
@@ -63,4 +63,3 @@ sleep 1
 echo
 fi
 exit
-esac
